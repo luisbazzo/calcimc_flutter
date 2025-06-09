@@ -1,3 +1,3 @@
-# flutter_calcimc_prova2
+# Calculadora IMC com login em Flutter.
 
-A new Flutter project.
+Projeto desenvolvido para a segunda avaliação da aula de Tópicos Especiais em Informática. 
